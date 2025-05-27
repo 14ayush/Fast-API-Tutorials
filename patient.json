@@ -1,0 +1,202 @@
+{
+  "1": {
+    "name": "Aarav Sharma",
+    "city": "Delhi",
+    "age": 32,
+    "gender": "Male",
+    "height": 172,
+    "weight": 70,
+    "bmi": 23.66,
+    "verdict": "Healthy"
+  },
+  "2": {
+    "name": "Priya Verma",
+    "city": "Mumbai",
+    "age": 28,
+    "gender": "Female",
+    "height": 160,
+    "weight": 62,
+    "bmi": 24.22,
+    "verdict": "Healthy"
+  },
+  "3": {
+    "name": "Rohan Singh",
+    "city": "Lucknow",
+    "age": 45,
+    "gender": "Male",
+    "height": 178,
+    "weight": 95,
+    "bmi": 29.98,
+    "verdict": "Overweight"
+  },
+  "4": {
+    "name": "Sneha Joshi",
+    "city": "Pune",
+    "age": 35,
+    "gender": "Female",
+    "height": 158,
+    "weight": 75,
+    "bmi": 30.03,
+    "verdict": "Obese"
+  },
+  "5": {
+    "name": "Amit Dubey",
+    "city": "Bhopal",
+    "age": 39,
+    "gender": "Male",
+    "height": 165,
+    "weight": 68,
+    "bmi": 24.98,
+    "verdict": "Healthy"
+  },
+  "6": {
+    "name": "Neha Rathi",
+    "city": "Jaipur",
+    "age": 22,
+    "gender": "Female",
+    "height": 162,
+    "weight": 50,
+    "bmi": 19.05,
+    "verdict": "Underweight"
+  },
+  "7": {
+    "name": "Rahul Kapoor",
+    "city": "Kolkata",
+    "age": 51,
+    "gender": "Male",
+    "height": 170,
+    "weight": 90,
+    "bmi": 31.14,
+    "verdict": "Obese"
+  },
+  "8": {
+    "name": "Divya Mehta",
+    "city": "Chandigarh",
+    "age": 29,
+    "gender": "Female",
+    "height": 166,
+    "weight": 60,
+    "bmi": 21.8,
+    "verdict": "Healthy"
+  },
+  "9": {
+    "name": "Karan Malhotra",
+    "city": "Hyderabad",
+    "age": 41,
+    "gender": "Male",
+    "height": 180,
+    "weight": 85,
+    "bmi": 26.23,
+    "verdict": "Overweight"
+  },
+  "10": {
+    "name": "Pooja Patel",
+    "city": "Ahmedabad",
+    "age": 33,
+    "gender": "Female",
+    "height": 155,
+    "weight": 57,
+    "bmi": 23.7,
+    "verdict": "Healthy"
+  },
+  "11": {
+    "name": "Manav Goyal",
+    "city": "Noida",
+    "age": 26,
+    "gender": "Male",
+    "height": 168,
+    "weight": 59,
+    "bmi": 20.9,
+    "verdict": "Healthy"
+  },
+  "12": {
+    "name": "Ishita Rao",
+    "city": "Bangalore",
+    "age": 31,
+    "gender": "Female",
+    "height": 161,
+    "weight": 48,
+    "bmi": 18.53,
+    "verdict": "Underweight"
+  },
+  "13": {
+    "name": "Ankit Tiwari",
+    "city": "Kanpur",
+    "age": 38,
+    "gender": "Male",
+    "height": 173,
+    "weight": 77,
+    "bmi": 25.7,
+    "verdict": "Overweight"
+  },
+  "14": {
+    "name": "Megha Mishra",
+    "city": "Indore",
+    "age": 30,
+    "gender": "Female",
+    "height": 164,
+    "weight": 70,
+    "bmi": 26.02,
+    "verdict": "Overweight"
+  },
+  "15": {
+    "name": "Yash Jain",
+    "city": "Nagpur",
+    "age": 24,
+    "gender": "Male",
+    "height": 175,
+    "weight": 68,
+    "bmi": 22.2,
+    "verdict": "Healthy"
+  },
+  "16": {
+    "name": "Sanya Khanna",
+    "city": "Dehradun",
+    "age": 27,
+    "gender": "Female",
+    "height": 159,
+    "weight": 55,
+    "bmi": 21.77,
+    "verdict": "Healthy"
+  },
+  "17": {
+    "name": "Ravi Nair",
+    "city": "Thiruvananthapuram",
+    "age": 43,
+    "gender": "Male",
+    "height": 174,
+    "weight": 96,
+    "bmi": 31.69,
+    "verdict": "Obese"
+  },
+  "18": {
+    "name": "Nidhi Saxena",
+    "city": "Gurgaon",
+    "age": 34,
+    "gender": "Female",
+    "height": 157,
+    "weight": 72,
+    "bmi": 29.2,
+    "verdict": "Overweight"
+  },
+  "19": {
+    "name": "Aditya Joshi",
+    "city": "Surat",
+    "age": 36,
+    "gender": "Male",
+    "height": 181,
+    "weight": 78,
+    "bmi": 23.8,
+    "verdict": "Healthy"
+  },
+  "20": {
+    "name": "Tanya Sehgal",
+    "city": "Amritsar",
+    "age": 25,
+    "gender": "Female",
+    "height": 160,
+    "weight": 47,
+    "bmi": 18.36,
+    "verdict": "Underweight"
+  }
+}
